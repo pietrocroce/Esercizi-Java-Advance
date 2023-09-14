@@ -5,7 +5,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Arrays;
 
-public class Exercises {
+public class ReadingAndWritingExercises {
 
     private static final Path MY_PATH = Paths.get("file.txt");
     private static final Path PATH_IN_A_FOLDER = Paths.get("mydirectory/file.txt");

@@ -1,4 +1,4 @@
-public class Exercises {
+public class EnumsExercise {
     public static void main(String[] args) {
         exercise1();
         exercise2();

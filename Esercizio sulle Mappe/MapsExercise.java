@@ -3,7 +3,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Main {
+public class MapsExercise {
     public static void main(String[] args) {
         exercise1();
         exercise2();
